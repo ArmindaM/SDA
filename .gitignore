@@ -37,3 +37,17 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Mac specific
+*.DS_Store
+
+# latex specific
+*.aux
+*.log
+
+# files in labs/
+labs/.DS_Store
+labs/*.html
+
+# files in data/
+data/.DS_Store
