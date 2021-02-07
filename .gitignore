@@ -45,6 +45,9 @@ vignettes/*.pdf
 *.aux
 *.log
 *.out
+*.snm
+*.toc
+*.synctex.gz
 
 # files in labs/
 labs/.DS_Store
