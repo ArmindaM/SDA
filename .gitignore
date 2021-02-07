@@ -50,6 +50,7 @@ vignettes/*.pdf
 *.synctex.gz
 *.nav
 *.gz
+*.tex
 
 # files in labs/
 labs/.DS_Store
