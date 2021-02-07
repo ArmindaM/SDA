@@ -44,6 +44,7 @@ vignettes/*.pdf
 # latex specific
 *.aux
 *.log
+*.out
 
 # files in labs/
 labs/.DS_Store
