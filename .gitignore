@@ -49,6 +49,7 @@ vignettes/*.pdf
 *.toc
 *.synctex.gz
 *.nav
+*.gz
 
 # files in labs/
 labs/.DS_Store
